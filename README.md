@@ -1,2 +1,2 @@
 # geocoding-tool
-Jupyter notebook para geocoficação de endereços adptado para Google Colab. 
+Jupyter notebook para geocoficação de endereços adaptado para Google Colab. 
