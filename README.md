@@ -1,2 +1,2 @@
 # geocoding-tool
-Jupyter notebook para geocoficação de endereços. 
+Jupyter notebook com API para geocoficação de endereços. 
